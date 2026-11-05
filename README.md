@@ -1,23 +1,24 @@
 <div align="center">
 
-```text
-██████╗  ██████╗ ██████╗
-██╔══██╗██╔════╝██╔════╝
-██████╔╝██║     ██║     
-██╔═══╝ ██║     ██║     
-██║     ╚██████╗╚██████╗
-╚═╝      ╚═════╝ ╚═════╝
-PRETTY AND CLEAN CODES — PRINCIPAL OOP AI ENGINEERING SKILL
-```
+<img src="https://raw.githubusercontent.com/z-astral/PCC/main/public/nothing.jpg" alt="Pretty and Clean Codes (PCC) Banner" width="100%" />
 
-**High-Density Object-Oriented Programming • Zero Inline Noise • Terse Scope-Proportional Naming • Flat Control Flow**
+<br />
 
-[![npm version](https://img.shields.io/badge/npm-v1.0.0-cb3837?style=flat-square&logo=npm)](https://www.npmjs.com/package/pretty-and-clean-codes)
-[![npx ready](https://img.shields.io/badge/npx-pretty--and--clean--codes-000000?style=flat-square&logo=node.js)](#quick-start--cli-commands)
-[![Token Savings](https://img.shields.io/badge/Token_Savings-~45%25_Output-22c55e?style=flat-square)](#-why-pcc-explained-for-everyone)
-[![Agents](https://img.shields.io/badge/Agents-Antigravity%20%7C%20Claude%20%7C%20OpenCode%20%7C%20Cursor%20%7C%20Devin-10b981?style=flat-square)](#supported-ai-agents-matrix)
-[![Architecture](https://img.shields.io/badge/Paradigm-Strict_OOP-8b5cf6?style=flat-square)](#the-4-engineering-pillars)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
+# Pretty and Clean Codes (PCC)
+### Principal OOP AI Engineering Skill
+
+<p align="center">
+  <b>High-Density Object-Oriented Programming</b> • <b>Zero Inline Noise</b> • <b>Terse Scope-Proportional Naming</b> • <b>Flat Control Flow</b>
+</p>
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/pretty-and-clean-codes"><img src="https://img.shields.io/npm/v/pretty-and-clean-codes?style=for-the-badge&logo=npm&color=CB3837&labelColor=18181B" alt="npm version" /></a>
+  <a href="#quick-start--cli-commands"><img src="https://img.shields.io/badge/npx-pretty--and--clean--codes-000000?style=for-the-badge&logo=node.js&labelColor=18181B" alt="npx" /></a>
+  <a href="#-why-pcc-explained-for-everyone"><img src="https://img.shields.io/badge/Token_Savings-~45%25_Output-22C55E?style=for-the-badge&labelColor=18181B" alt="Token Savings" /></a>
+  <a href="#supported-ai-agents-matrix"><img src="https://img.shields.io/badge/AI_Agents-Antigravity_%7C_Claude_%7C_OpenCode_%7C_Cursor_%7C_Devin-0EA5E9?style=for-the-badge&labelColor=18181B" alt="Agents" /></a>
+  <a href="#the-4-engineering-pillars"><img src="https://img.shields.io/badge/Paradigm-Strict_OOP-8B5CF6?style=for-the-badge&labelColor=18181B" alt="Paradigm" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-3B82F6?style=for-the-badge&labelColor=18181B" alt="License" /></a>
+</p>
 
 <p align="center">
   <a href="#-english-documentation">🇬🇧 English</a> •
