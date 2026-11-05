@@ -158,6 +158,16 @@ const AGENTS = {
         project: ['AGENTS.md'],
         global: [path.join(homeDir(), '.codex', 'AGENTS.md')],
     },
+    gemini: {
+        label: 'Google Gemini CLI / Assistant',
+        project: [
+            'GEMINI.md',
+            '.gemini/skills/pretty-and-clean-codes/SKILL.md',
+        ],
+        global: [
+            path.join(homeDir(), '.gemini', 'GEMINI.md'),
+        ],
+    },
     zed: {
         label: 'Zed Editor',
         project: ['.rules'],

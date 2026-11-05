@@ -1,11 +1,19 @@
 {
     "name": "pretty-and-clean-codes",
     "version": "1.0.0",
-    "description": "PCC (Pretty and Clean Codes) — Principal OOP AI Engineering Skill. Enforces zero inline comments, scope-proportional terse naming, flat control flow, and strict class-level docblocks across Antigravity, Claude Code, OpenCode, Cursor, Devin, Windsurf, Copilot, Cline, RooCode, Codex, Zed, and more.",
+    "description": "PCC (Pretty and Clean Codes) — Principal OOP AI Engineering Skill. Enforces zero inline comments, scope-proportional terse naming, flat control flow, and strict class-level docblocks across Antigravity, Claude Code, OpenCode, Cursor, Devin, Windsurf, Copilot, Cline, RooCode, Codex, Gemini, Zed, and more.",
     "type": "module",
     "bin": {
-        "pretty-and-clean-codes": "./bin/cli.mjs",
-        "pcc": "./bin/cli.mjs"
+        "pretty-and-clean-codes": "bin/cli.mjs",
+        "pcc": "bin/cli.mjs"
+    },
+    "homepage": "https://github.com/z-astral/PCC#readme",
+    "bugs": {
+        "url": "https://github.com/z-astral/PCC/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/z-astral/PCC.git"
     },
     "files": [
         "bin",
@@ -38,6 +46,7 @@
         "cline",
         "roocode",
         "codex",
+        "gemini",
         "zed",
         "z-astral"
     ],
